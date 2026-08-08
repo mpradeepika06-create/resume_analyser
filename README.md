@@ -1,3 +1,3 @@
 # resume_analyser
 A resume analyzer is a digital tool that uses artificial intelligence and natural language processing to scan, parse, and evaluate a resume against job descriptions or ATS (Applicant Tracking System) standards, providing an instant score and practical tips to improve it.
-![image]()
+![image](https://github.com/mpradeepika06-create/resume_analyser/blob/7b5d0028351333cc1bfa850dda1966271132e653/resume%20analyser1.png)
